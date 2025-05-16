@@ -1,2 +1,1 @@
-# MICRO_IT_INTERNSHIP
-SETHU MADHAVAN P - PORTFOLIO
+# Sethu Madhavan P - Portfolio
